@@ -98,13 +98,15 @@ o	Severity: Urgent
 •	The spelling of Cybersport in the body is wrong.
 o	Priority: Low
 o	Severity: Low
-•	In the Cibersport page the first story article text is not fully visible and there is no option to expand it.
-o	Priority: High
-o	Severity: Urgent
-•	In the Cibersport page the second story article text is not fully visible and there is no option to expand the story or view the full version of it.
-o	Priority: High
-o	Severity: Urgent
+•	In the Cibersport page the first story article text is not fully visible and there is no option to expand it.  
 
-#Project Contributor
-Name- Roshan Paswan
-Email- Roshansaroj246@gmail.com
+o	Priority: High  
+
+o	**Severity:** Urgent
+•	In the Cibersport page the second story article text is not fully visible and there is no option to expand the story or view the full version of it.
+o	**Priority:** High
+o	**Severity:** Urgent
+
+# Project Contributor
+**Name-** Roshan Paswan
+**Email-** Roshansaroj246@gmail.com
