@@ -46,67 +46,65 @@ o	Severity: High
 •	The Ads are overlapping with the navigation bar while scrolling the home page.
 o	Priority: High
 o	Severity: Urgent
-•	In body section if we click on learn more button of Michael Jordon, we unable to view any information. it’s Blank
-o	Priority: High
-o	Severity: Urgent
-•	In body section, if we click learn more on Michael Jordon we unable to close information box ,the icon is not visible.
-o	Priority: High
-o	Severity: Urgent
-•	The social media handles are in footer is not clickable.
-o	Priority: Medium
-o	Severity: High
-•	On clicking “About us” link, it will navigate to a new page which is holding 404 error.
-o	Priority: High
-o	Severity: Urgent
-•	On clicking “Click here” button in Ads it only refreshes the page.
-o	Priority: Medium
-o	Severity: High
-•	On clicking “TESTERS” and “Apply Now” button, both are navigated to same page.
-o	Priority: High
-o	Severity: Urgent
-•	In body section, learn more information text is overlapped with ads.
-o	Priority: High
-o	Severity: Critical
-•	In header section the titles are not symmetric and not properly aligned
-o	Priority: Low
-o	Severity: Low
-# FOOTBALL
-•	In the Football page the image given is not related to football.
-o	Priority: Medium
-o	Severity: High
-•	First story article In Football page’s the text is not fully visible and there is no option to expand the story or view the full article.
-o	Priority: High
-o	Severity: Urgent
-# BASKETBALL
-•	The spelling of Basketball is wrong.
-o	Priority: Low
-o	Severity: Low
-•	In the Busketball page’s the articles texts are not fully visible and there is no option to expand it or view the full version of it.
-o	Priority: High
-o	Severity: Urgent
-•	In the Busketball page second story article the image is not loading.
-o	Priority: Medium
-o	Severity: High
-# CRICKET
-•	The spelling of Cricket in the body is wrong
-o	Priority: Low
-o	Severity: Low
-•	In the Kriket page’s both story articles text is not fully visible and there is no option to expand the story or view the full version of it.
-o	Priority: High
-o	Severity: Urgent
-# CIBERSPORT
-•	The spelling of Cybersport in the body is wrong.
-o	Priority: Low
-o	Severity: Low
-•	In the Cibersport page the first story article text is not fully visible and there is no option to expand it.  
-
+•	In body section if we click on learn more button of Michael Jordon, we unable to view any information. it’s Blank  
 o	Priority: High  
-
-o	**Severity:** Urgent
-•	In the Cibersport page the second story article text is not fully visible and there is no option to expand the story or view the full version of it.
+o	Severity: Urgent  
+•	In body section, if we click learn more on Michael Jordon we unable to close information box ,the icon is not visible.  
+o	Priority: High  
+o	Severity: Urgent  
+•	The social media handles are in footer is not clickable.  
+o	Priority: Medium  
+o	Severity: High  
+•	On clicking “About us” link, it will navigate to a new page which is holding 404 error.  
+o	Priority: High  
+o	Severity: Urgent  
+•	On clicking “Click here” button in Ads it only refreshes the page.  
+o	Priority: Medium  
+o	Severity: High  
+•	On clicking “TESTERS” and “Apply Now” button, both are navigated to same page.  
+o	Priority: High  
+o	Severity: Urgent  
+•	In body section, learn more information text is overlapped with ads.  
+o	Priority: High  
+o	Severity: Critical  
+•	In header section the titles are not symmetric and not properly aligned  
+o	Priority: Low  
+o	Severity: Low 
+# FOOTBALL  
+•	In the Football page the image given is not related to football.  
+o	Priority: Medium  
+o	Severity: High  
+•	First story article In Football page’s the text is not fully visible and there is no option to expand the story or view the full article.  
+o	Priority: High 
+o	Severity: Urgent  
+# BASKETBALL  
+•	The spelling of Basketball is wrong.  
+o	Priority: Low  
+o	Severity: Low  
+•	In the Busketball page’s the articles texts are not fully visible and there is no option to expand it or view the full version of it.  
+o	Priority: High  
+o	Severity: Urgent  
+•	In the Busketball page second story article the image is not loading.  
+o	Priority: Medium  
+o	Severity: High  
+# CRICKET
+•	The spelling of Cricket in the body is wrong  
+o	Priority: Low  
+o	Severity: Low  
+•	In the Kriket page’s both story articles text is not fully visible and there is no option to expand the story or view the full version of it.  
+o	Priority: High  
+o	Severity: Urgent  
+# CIBERSPORT  
+•	The spelling of Cybersport in the body is wrong.  
+o	Priority: Low  
+o	Severity: Low  
+•	In the Cibersport page the first story article text is not fully visible and there is no option to expand it.  
+o	Priority: High  
+o	**Severity:** Urgent  
+•	In the Cibersport page the second story article text is not fully visible and there is no option to expand the story or view the full version of it.  
 o	**Priority:** High
-o	**Severity:** Urgent
+o	**Severity:** Urgent  
 
-# Project Contributor
-**Name-** Roshan Paswan
+# Project Contributor  
+**Name-** Roshan Paswan  
 **Email-** Roshansaroj246@gmail.com
