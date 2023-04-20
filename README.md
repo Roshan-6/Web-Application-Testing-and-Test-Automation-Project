@@ -22,12 +22,12 @@ We have to implement the Page Object Model design pattern to organize our code a
 
 
 # Bug Finding and Bug Reporting  
-In this task, I found out all the possible bugs in the web application and reported them using Jira tool. We provided the following details for each bug:  
+In this task, I found out all the possible bugs in the web application. I have provided the following details for each bug:  
 •	Bug Title  
 •	Bug Priority  
 •	Bug Severity  
-Some of the bugs we found are: 
-#HOMEPAGE  
+Some of the bugs we found are:   
+# HOMEPAGE  
 •	In header section, Basketball ,Cricket and Cybersport spelling is wrong.  
 o	Priority: Low  
 o	Severity: Low  
