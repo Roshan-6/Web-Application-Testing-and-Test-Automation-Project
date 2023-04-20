@@ -3,10 +3,10 @@ This repository contains the code for a web application testing and test automat
 # Project URL  
 The web application being tested is located at: https://test-nf.com/english.html  
 # User Story Analysis and Test Scenario Development  
-**User Story 0001: Add About us link option in footer of the application.  **
+**User Story 0001: Add About us link option in footer of the application.**
 # Description-  
 The scope of this user story is to provide an 'About us' link so that users can click on the link and get all the details about the organization vision and mission.  
-** Acceptance Criteria:  **
+**Acceptance Criteria:**
 1.	Users should be able to click on the 'About us' link.  
 2.	'About us' link should be displayed in footer part (as per the mock-up).  
 3.	When the user clicks on the 'About us' link, the system will navigate to a new page which displays the Organization Vision and Mission.  
@@ -17,11 +17,11 @@ In this task, I prepared an automation test script using Selenium WebDriver and 
 •	Verify the availability of each tab (Home, Cricket, Football, Basketball and Cyber Sports)  
 •	Verify that the URL of each tab contains the tab name.  
 •	Store all the current URLs in an Excel sheet.  
-** Additional Information-**  
+**Additional Information-**  
 We have to implement the Page Object Model design pattern to organize our code and improve its readability and maintainability. We have to use assertions for  validation and Excel sheet integration for passing system properties and application URL.  
 
 
-#Bug Finding and Bug Reporting  
+# Bug Finding and Bug Reporting  
 In this task, I found out all the possible bugs in the web application and reported them using Jira tool. We provided the following details for each bug:  
 •	Bug Title  
 •	Bug Priority  
