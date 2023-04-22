@@ -104,6 +104,13 @@ o	**Severity:** Urgent
 •	In the Cibersport page the second story article text is not fully visible and there is no option to expand the story or view the full version of it.  
 o	Priority: High
 o	Severity: Urgent  
+# Tools and Technologies Used
+**Automation Testing Tool:** Selenium  
+**Programming Language:** Java  
+**Testing Framework:** TestNG  
+**Build Tool:** Maven  
+**IDE:** Eclipse  
+**Excel Sheet Integration:** Java Excel API(JXL)  
 
 # Project Contributor  
 **Name-** Roshan Paswan  
